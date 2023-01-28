@@ -5,3 +5,4 @@ To use the program, you need to write the following command in the terminal, and
 ```
 python3 main.py
 ```
+You also have all the pdf files that i have obtained by testing the program.
